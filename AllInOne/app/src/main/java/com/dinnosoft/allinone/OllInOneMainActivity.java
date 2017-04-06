@@ -49,6 +49,14 @@ public class OllInOneMainActivity extends Activity {
             }
         });
 
+        final Button button2 = (Button) findViewById(R.id.cliente);
+        button2.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                Intent Login = new Intent(OllInOneMainActivity.this, CCActivity.class);
+                startActivity(Login);
+            }
+        });
+
     }
 
     /**
