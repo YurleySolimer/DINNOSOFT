@@ -10,8 +10,24 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.dinnosoft.allinone.OllInOneMainActivity">
 
-    <TextView
+    <Button
+        android:text="ADIMINISTRADOR"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:id="@+id/administrador"
+        style="@android:style/Widget.ImageWell"
+        android:elevation="0dp" />
+
+    <Button
+        android:text="CLIENTE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="99dp"
+        android:id="@+id/cliente"
+        android:layout_below="@+id/administrador"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
