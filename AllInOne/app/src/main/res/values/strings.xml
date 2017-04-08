@@ -15,4 +15,5 @@
         completions."
     </string>
     <string name="title_activity_cc">CCActivity</string>
+    <string name="title_activity_administrador">AdministradorActivity</string>
 </resources>

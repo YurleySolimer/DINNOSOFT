@@ -34,7 +34,11 @@
         <activity
             android:name=".CCActivity"
             android:label="@string/title_activity_cc"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AdministradorActivity"
+            android:label="@string/title_activity_administrador"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
