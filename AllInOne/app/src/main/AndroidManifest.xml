@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dinnosoft.allinone">
+    package="com.dinnosoft.allinone"
+    android:versionCode="1"
+    android:versionName="1.0" >
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -21,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginActivity"
+            android:name=".SignInActivity"
             android:label="@string/title_activity_login" />
         <!--
  ATTENTION: This was auto-generated to add Google Play services to your project for
@@ -39,6 +41,19 @@
             android:name=".AdministradorActivity"
             android:label="@string/title_activity_administrador"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SignUPActivity"
+            android:label="@string/title_activity_registro"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_log"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+
+
+
+
+
     </application>
 
 </manifest>

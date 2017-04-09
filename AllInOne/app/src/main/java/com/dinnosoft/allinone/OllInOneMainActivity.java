@@ -12,7 +12,6 @@ import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
 
-import static com.dinnosoft.allinone.R.styleable.View;
 
 public class OllInOneMainActivity extends Activity {
 
@@ -44,7 +43,7 @@ public class OllInOneMainActivity extends Activity {
         final Button button = (Button) findViewById(R.id.administrador);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent Login = new Intent(OllInOneMainActivity.this, LoginActivity.class);
+                Intent Login = new Intent(OllInOneMainActivity.this, HomeActivity.class);
                 startActivity(Login);
             }
         });
