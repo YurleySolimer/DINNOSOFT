@@ -1,7 +1,0 @@
-#Tue Apr 18 19:18:04 VET 2017
-base.0=/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b310f7f9199a7465b7b7b3363698811d1682cb0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9385ea4546be6c9912b174e87d1589560ca730c/classes.dex
-base.1=/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9385ea4546be6c9912b174e87d1589560ca730c
-file.0=/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b310f7f9199a7465b7b7b3363698811d1682cb0/classes.dex
