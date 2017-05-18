@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_b6be85206b93a8c84bc48873a8e8485653248d1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_ca716e6428db508e66f0096b06166de17a9fe736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_5e4e85d6ea777bee65ff0025537c6909b6d45913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c593d0e0dd20a6d64566a87e7496f76d051241d7">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c9385ea4546be6c9912b174e87d1589560ca730c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.2.0_c2ff56f68c6cba823c13f7f9267bfc8f7222026a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_0aa297934e2f51c4bf426485116281f649633da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_7eb5cbd1cdcc33d034960d14ea4cd00c30f999eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_7f93a8893276eebc45a7a0b38a5fd84794fdcabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_aa57966da115832e6eb095b8ea0ca3601ee4321f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="193a25b67fdd208ad89098db6b39020a8cc92f01">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b310f7f9199a7465b7b7b3363698811d1682cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_8a8abb3d6e16c4268c9800478a6f04c4204d6915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_c1ac7c94c8778f02633cd97040c58a6950933b35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_148a7110f2c14260cb8dd0989185609751705bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_ab16030545289685a0a67447cfa161faa13c8fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_cab9a9599f82b6834043c25de18f2b4f5025beff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_003ffd6caed22f8cfbe9b7d03dfdcd253c1d3aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_53b3b7b1ee1b9032edf0442b070db89047e00ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_a43ad979195249e31afbf720fedb7b3b09d471d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_7b09cac5187d63d1547c9e267c7a1ce6fa6530c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_56ff99d74b5af5b6bb11ddbf6b2837ff4c40cc2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/yurley/DINNOSOFT/AllInOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_e8929c9147bd469da8e931393c2993eb77661ecb/classes.dex" />
+    </item>
+
+</items>
